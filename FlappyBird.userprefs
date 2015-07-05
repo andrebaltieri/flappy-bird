@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\TheRunner\Assets\SampleAssets\2D\Scripts\PlatformerCharacter2D.cs">
+    <Files>
+      <File FileName="..\TheRunner\Assets\SampleAssets\2D\Scripts\Platformer2DUserControl.cs" Line="12" Column="3" />
+      <File FileName="..\TheRunner\Assets\SampleAssets\2D\Scripts\PlatformerCharacter2D.cs" Line="99" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
